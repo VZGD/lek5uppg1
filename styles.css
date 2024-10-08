@@ -1,0 +1,66 @@
+.mainheader {
+    border: 5px red;
+    border-style: solid;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.rubrik1 {
+    border: 3px black;
+    border-style: solid;
+    background-color: aqua;
+    width: 25vw;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+
+
+}
+
+#top{
+    border:2px solid black;
+    padding-left:30px;
+    padding-right:30px;
+    background-color: aqua;
+}
+
+
+.mainheader2 {
+    border: 5px orange;
+    border-style: solid;
+}
+
+
+
+
+.info {
+    border: 5px yellow;
+    border-style: solid;
+}
+    
+
+
+#vanstra {
+    background-color: yellow;
+    border: 5px black;
+    border-style: solid;
+    width: 30vw;
+    text-align: center;
+}
+
+#hogra {
+    background-color: pink;
+    border: 5px black;
+    border-style: solid;
+    width: 30vw;
+    text-align: center;
+}
+
+.mainheader2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
